@@ -2,7 +2,7 @@
 An image scraping script using python
 ## Prerequisites:
 - should have python installed from [here](https://www.python.org/downloads/)
-- should have pillow, requests, and selenium installed
+- should have pillow, requests, and selenium installed (steps provided below)
 - should have the latest Chrome version up and running
 ## Steps:
 - if you are on windows, open command prompt and type the following commands to install the packages listed below:
