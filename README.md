@@ -1,5 +1,5 @@
-# Google Image Downloader
-An image scraping script using python
+# Image Scraper  
+An image scraping script using python. In layman's term, a google image downloader script.
 ## Prerequisites:
 - should have python installed from [here](https://www.python.org/downloads/)
 - should have pillow, requests, and selenium installed (steps provided below)
